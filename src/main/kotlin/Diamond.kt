@@ -1,5 +1,3 @@
-package org.example
-
 private const val A = 'A'
 
 private const val WHITE_SPACE = " "
